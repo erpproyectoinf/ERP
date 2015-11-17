@@ -1,0 +1,10 @@
+.icon {
+	width: 100px;
+	height: 100px;
+	
+}
+
+.container .icon{
+	border:1px solid #0174DF;
+	border-radius: 50%;
+}
